@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bruno Gomes</h1>
+<h1 align="center">Hi 👋, I'm Bruno</h1>
 <h3 align="center">A financial market professional in career transition. Diving into the world of Technology, Data & Analytics.</h3>
 
 - 🔭 I’m currently working with **Data Science & AI**
