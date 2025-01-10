@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
-<h3 align="center">A financial market professional in career transition. Diving into the world of Technology, Data Science, AI and Analytics.</h3>
+<h3 align="center">A financial market professional in career transition. Diving into the world of Data Science, AI and Analytics.</h3>
 
 - 🔭 I’m currently working with **Data Science & AI**
 
