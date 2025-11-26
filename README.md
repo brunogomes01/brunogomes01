@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
-<h3 align="center">I'm working as a Cloud Infrastructure Analyst at NTT Data Europe & Latam, seeking to combine expertise in cloud infrastructure and data analysis in order to bring great solutions + resources, process and cost optmizations.</h3>
+<h3 align="center">I'm working as a Cloud Solutions Analyst at NTT Data Europe & Latam, seeking to combine expertise in cloud infrastructure and data analysis in order to bring great solutions + resources, process and cost optmizations.</h3>
 
 - 🔭 I’m currently working with **Cloud Infrastructure & Data Analysis**
 
