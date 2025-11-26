@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 <h3 align="center">I'm working as a Cloud Solutions Analyst at NTT Data Europe & Latam, seeking to combine expertise in cloud infrastructure and data analysis in order to bring great solutions + resources, process and cost optmizations.</h3>
 
-- 🔭 I’m currently working with **Cloud Infrastructure & Data Analysis**
+- 🔭 I’m currently working with **Cloud Infrastructure & Data Analytics**
 
-- 🌱 I’m currently learning **Python for Data Analysis, Data Science & Cloud Solutions**
+- 🌱 I’m currently learning **Python for Data Science & AI**
 
 - 👯 I’m looking to collaborate on **Data Projects**
 
-- 💬 Ask me about **Data Analysis, Data Science, Python, SQL, Power BI and technology content**
+- 💬 Ask me about **Data Analytics, Data Science, Cloud, FinOps, Python, SQL, Power BI and technology content**
 
 - 📫 How to reach me **contato.brunogomes96@gmail.com**
 
