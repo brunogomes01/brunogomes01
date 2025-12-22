@@ -1,20 +1,34 @@
-<h1 align="center">Hi 👋, I'm Bruno</h1>
-<h3 align="center">I'm working as a Cloud Solutions Analyst at NTT Data Europe & Latam, seeking to combine expertise in cloud infrastructure and data analytics in order to bring great solutions + resources, process and cost optmizations.</h3>
+Hi 👋, I'm Bruno!
 
-- 🔭 I’m currently working with **Cloud Solutions & Data Analytics focused on FinOps**
+Cloud Infrastructure Analyst with a strong focus on FinOps. I work at NTT Data Europe & LATAM, supporting cloud environments and driving cost optimization, operational efficiency, and continuous improvement across cloud infrastructures.
 
-- 🌱 I’m currently learning **Python for Data Science & AI**
+I hold a specialization in Data Science and Artificial Intelligence, which allows me to combine cloud computing, infrastructure services, and data analytics to deliver practical, measurable optimizations in resources, performance, and cost.
 
-- 👯 I’m looking to collaborate on **Cloud Solutions & Data Projects**
+💼 Current Role — Cloud Infrastructure Analyst (FinOps-focused)
 
-- 💬 Ask me about **Data Analytics, Data Science, Cloud, FinOps, Python, SQL, Power BI and technology content**
+Currently, my scope involves operational and analytical responsibilities, executed at an introductory-to-intermediate technical level, including:
 
-- 📫 How to reach me: **contato.brunogomes96@gmail.com**
+- Management, support, and maintenance of cloud-based systems, ensuring compliance with standards, policies, and SLA requirements
+- Monitoring and sustaining cloud environments with a FinOps-driven approach, focusing on cost visibility, optimization opportunities, and continuous improvement
+- Execution of scripts and basic automations to support recurring operational tasks
+- Incident management, troubleshooting, and corrective actions using established operational tools and procedures
+- Collaboration with technical and business teams to improve governance, reliability, and cost efficiency across cloud services
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/brunosgomes_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brunosgomes_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bruno-gomes-a68870197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bruno-gomes-a68870197/" height="30" width="40" /></a>
+My work is centered on cost control, optimization actions, and operational stability, always seeking to translate technical activities into tangible financial and operational outcomes.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🎯 Core Interests & Focus Areas
+
+- Cloud Engineering (Azure-focused)
+- Cloud architecture design and optimization
+- Automation & Scripting (Python, CLI)
+- Data Analytics applied to Cloud & Finance
+- Infrastructure as Code (IaC)
+- Advanced automation and scripting
+- Governance, Monitoring & Operational Excellence
+
+🤝 Collaboration & Contact
+
+- Open to collaborating on Cloud, FinOps, and Data-related projects
+- Ask me about Cloud Infrastructure, FinOps, Data Analytics, Python, SQL, Power BI
+
+📫 Contact: contato.brunogomes96@gmail.com
