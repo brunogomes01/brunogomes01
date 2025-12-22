@@ -28,7 +28,7 @@ My work is centered on cost control, optimization actions, and operational stabi
 
 🤝 Collaboration & Contact
 
-- Open to collaborating on Cloud, FinOps, and Data-related projects
+- Open to collaborating on Cloud, DevOps, FinOps, and Data-related projects
 - Ask me about Cloud Infrastructure, FinOps, Data Analytics, Python, SQL, Power BI
 
 📫 Contact: contato.brunogomes96@gmail.com
