@@ -21,7 +21,7 @@ My work is centered on cost control, optimization actions, and operational stabi
 - Cloud Engineering (Azure-focused)
 - Cloud architecture design and optimization
 - Automation & Scripting (Python, CLI)
-- Data Analytics applied to Cloud & Finance
+- Data Analytics applied to Cloud Environment
 - Infrastructure as Code (IaC)
 - Advanced automation and scripting
 - Governance, Monitoring & Operational Excellence
