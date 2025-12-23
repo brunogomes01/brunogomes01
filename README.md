@@ -1,12 +1,12 @@
 Hi 👋, I'm Bruno!
 
-Cloud Infrastructure Analyst with a strong focus on FinOps. I work at NTT Data Europe & LATAM, supporting cloud environments and driving cost optimization, operational efficiency, and continuous improvement across cloud infrastructures.
+Cloud Solutions Analyst with a strong focus on FinOps. I work at NTT Data Europe & LATAM, supporting cloud environments and driving cost optimization, operational efficiency, and continuous improvement across cloud infrastructures.
 
 I hold a specialization in Data Science and Artificial Intelligence, which allows me to combine cloud computing, infrastructure services, and data analytics to deliver practical, measurable optimizations in resources, performance, and cost.
 
 💼 Current Role — Cloud Infrastructure Analyst (FinOps-focused)
 
-Currently, my scope involves operational and analytical responsibilities, executed at an introductory-to-intermediate technical level, including:
+Currently, my scope involves technical, operational and analytical responsibilities, including:
 
 - Management, support, and maintenance of cloud-based systems, ensuring compliance with standards, policies, and SLA requirements
 - Monitoring and sustaining cloud environments with a FinOps-driven approach, focusing on cost visibility, optimization opportunities, and continuous improvement
