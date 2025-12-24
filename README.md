@@ -4,7 +4,7 @@ Cloud Infrastructure Analyst with a strong focus on FinOps. I work at NTT Data E
 
 I hold a specialization in Data Science and Artificial Intelligence, which allows me to combine cloud computing, infrastructure services, and data analytics to deliver practical, measurable optimizations in resources, performance, and cost.
 
-💼 Current Role — Cloud Infrastructure Analyst (FinOps-focused)
+💼 Current Role — Cloud Infrastructure Analyst
 
 Currently, my scope involves technical, operational and analytical responsibilities, including:
 
