@@ -1,33 +1,62 @@
-Hi 👋, I'm Bruno!
+# Hi, I'm Bruno 👋
 
-Cloud Solutions Analyst with a strong focus on FinOps. I work at NTT Data Europe & LATAM, supporting cloud environments and driving cost optimization, operational efficiency, and continuous improvement across cloud infrastructures.
+Junior Cloud Solutions Engineer at **NTT Data Europe & LATAM**, working with cloud infrastructure support, operational excellence, cost optimization, and continuous improvement initiatives.
 
-I hold a specialization in Data Science and Artificial Intelligence, which allows me to combine cloud computing, infrastructure services, and data analytics to deliver practical, measurable optimizations in resources, performance, and cost.
+I hold a specialization in **Data Science and Artificial Intelligence**, combining cloud computing, infrastructure services, and applied data analytics to deliver practical and measurable optimizations.
 
-💼 Current Role Activities
+---
 
-My scope involves technical, operational and analytical responsibilities, including:
+## 🚀 What I do
 
-- Management, support, and maintenance of cloud-based systems, ensuring compliance with standards, policies, and SLA requirements
-- Monitoring and sustaining cloud environments with a FinOps-driven approach, focusing on cost visibility, optimization opportunities, and continuous improvement
-- Execution of scripts and basic automations to support recurring operational tasks
-- Incident management, troubleshooting, and corrective actions using established operational tools and procedures
-- Collaboration with technical and business teams to improve governance, reliability, and cost efficiency across cloud services
+- Cloud infrastructure management and support with a **FinOps-oriented SRE mindset**
+- Monitoring and sustaining cloud environments focused on **cost visibility and optimization**
+- Automation and scripting for recurring operational tasks
+- Incident management, troubleshooting, and corrective actions
+- Collaboration with technical and business teams to improve governance, reliability, and efficiency
 
-My work is centered on scalability, cost control, optimization actions, and operational stability, always seeking to translate technical activities into tangible financial and operational outcomes.
+---
 
-🎯 Core Interests & Focus Areas
+## 🧰 Tech Stack
 
-- Cloud Engineering (Azure-focused)
-- Cloud architecture design and optimization
-- Automation & Scripting (Python, CLI)
-- Data Analytics applied to Cloud Environments
-- Infrastructure as Code (IaC)
-- Governance, Monitoring & Operational Excellence
+### ☁️ Cloud & Platforms
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-🤝 Collaboration & Contact
+### 💰 FinOps & Monitoring
+![FinOps](https://img.shields.io/badge/FinOps-4CAF50?style=flat)
+![Azure Cost Management](https://img.shields.io/badge/Azure%20Cost%20Management-0078D4?style=flat)
+![Monitoring](https://img.shields.io/badge/Monitoring-673AB7?style=flat)
 
-- Open to collaborating on Cloud, DevOps, FinOps, and Data-related projects
-- Ask me about Cloud Infrastructure, FinOps, Data & AI, Python, SQL, Power BI
+### 🧑‍💻 Programming & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=flat)
+
+### 🏗️ Infrastructure & DevOps
+![IaC](https://img.shields.io/badge/Infrastructure%20as%20Code-FF9800?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### 📊 Data & Analytics
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+---
+
+## 🎯 Interests & Focus Areas
+
+- Cloud Engineering & Architecture
+- Cost optimization and FinOps practices
+- Automation & scripting
+- Data analytics applied to cloud environments
+- Governance, monitoring, and operational excellence
+
+---
+
+## 🤝 Let's connect
+
+Open to collaborating on **Cloud, DevOps, FinOps, and Data-related projects**.
+
+Feel free to reach out to discuss **Cloud Infrastructure, FinOps, Data, and AI**.
 
 📫 Contact: contato.brunogomes96@gmail.com
