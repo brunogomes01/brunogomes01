@@ -4,14 +4,14 @@ I’m a **Junior Cloud Engineer** at **NTT Data Europe & LATAM**, working at the
 
 My role focuses on building, operating, and improving cloud environments with an emphasis on **automation, scalability, reliability, and cost efficiency**.
 
-I hold a specialization in **Data Science and Artificial Intelligence**, which allows me to apply data-driven approaches to cloud operations, cost optimization, and infrastructure decision-making.
+I hold a specialization in **Data Science and Artificial Intelligence**, enabling data-driven decisions for cloud operations, cost optimization, and infrastructure governance.
 
 ---
 
 ## 🚀 What I work on
 
 - Cloud infrastructure operations with a **DevOps and SRE mindset**
-- FinOps-driven cost visibility, optimization, and governance
+- FinOps-driven **cost visibility, optimization, and governance**
 - Monitoring, reliability, and continuous improvement of cloud platforms
 - Automation and scripting to reduce manual effort and operational risk
 - Incident management, troubleshooting, and root cause analysis
@@ -25,14 +25,15 @@ I hold a specialization in **Data Science and Artificial Intelligence**, which a
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-### ⚙️ DevOps & Automation
+### ⚙️ DevOps, IaC & Automation
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### 🏗️ Infrastructure & Reliability
+### 🏗️ Infrastructure, Reliability & Observability
 ![IaC](https://img.shields.io/badge/Infrastructure%20as%20Code-FF9800?style=flat)
 ![Monitoring](https://img.shields.io/badge/Monitoring-673AB7?style=flat)
 ![SRE](https://img.shields.io/badge/SRE-0A0A0A?style=flat)
@@ -52,8 +53,8 @@ I hold a specialization in **Data Science and Artificial Intelligence**, which a
 
 - Cloud Engineering & Platform Operations
 - DevOps culture, automation, and reliability
-- FinOps practices and cost-aware engineering
-- Infrastructure as Code and governance
+- **Infrastructure as Code (Terraform)**
+- FinOps and cost-aware engineering
 - Monitoring, observability, and operational excellence
 - Data-driven optimization of cloud environments
 
@@ -63,6 +64,6 @@ I hold a specialization in **Data Science and Artificial Intelligence**, which a
 
 Open to collaborating on **Cloud Engineering, DevOps, FinOps, and Infrastructure projects**.
 
-Feel free to reach out to discuss **Cloud Platforms, Automation, Cost Optimization, and Data-driven Operations**.
+Feel free to reach out to discuss **Cloud Platforms, Terraform, Automation, Cost Optimization, and Data-driven Operations**.
 
 📫 Contact: contato.brunogomes96@gmail.com
