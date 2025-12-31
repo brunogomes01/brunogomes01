@@ -53,7 +53,7 @@ I hold a specialization in **Data Science and Artificial Intelligence**, enablin
 
 - Cloud Engineering & Platform Operations
 - DevOps culture, automation, and reliability
-- **Infrastructure as Code (Terraform)**
+- Infrastructure as Code (Terraform)
 - FinOps and cost-aware engineering
 - Monitoring, observability, and operational excellence
 - Data-driven optimization of cloud environments
