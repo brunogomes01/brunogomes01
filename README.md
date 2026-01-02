@@ -44,6 +44,7 @@ I hold a specialization in **Data Science and Artificial Intelligence**, enablin
 ![Governance](https://img.shields.io/badge/Governance-455A64?style=flat)
 
 ### 📊 Data & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
